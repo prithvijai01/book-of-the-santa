@@ -1,2 +1,2 @@
-# book-of-the-santa
-no,yes
+# book-santa-stage-6
+Stage - 6
